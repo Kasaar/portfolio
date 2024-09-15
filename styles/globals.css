@@ -108,7 +108,8 @@ a{
 }
 
 .about {
-  color: #D3D3D3;
+  color: white;
+  font-size: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
