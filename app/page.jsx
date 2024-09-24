@@ -14,7 +14,7 @@ const Home = () => {
         <div className="section-2">
           <h2><Link href="/about">About Me</Link></h2>
           <h2><Link href="/projects">Projects</Link></h2>
-          <h2><Link href="/Owen_Zeller_Resume.pdf">Résumé</Link></h2>
+          <h2><Link href="/Owen_Zeller_Resume-6.pdf">Résumé</Link></h2>
         </div>
       </div>
     </section>
